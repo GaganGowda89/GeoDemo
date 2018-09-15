@@ -6,3 +6,4 @@ Notes:
 
 URL:
 * http://localhost:8080/ws/data/all
+* http://localhost:8080/
